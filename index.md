@@ -36,7 +36,7 @@ knit        : slidify::knit2slides
 
 ## Distribuição de Probabilidades
 
-> - <img src="/home/eduardojr/Dropbox/Graduação/FinalWork/Preliminary/Siepe2015/Seminarios_Discentes/Slide/assets/img/px.png" align="middle" height="450" width="650" margin="0 auto" />
+> - <img src="assets/img/px.png" align="middle" height="450" width="650" margin="0 auto" />
 
 > - 
 <img src="assets/fig/unnamed-chunk-2-1.png" title="plot of chunk unnamed-chunk-2" alt="plot of chunk unnamed-chunk-2" style="display: block; margin: auto auto auto 0;" />
@@ -195,7 +195,7 @@ Quando $\nu = 0$ e $\lambda \geqslant 0$ não converge
 
 ---
 
-<img src="/home/eduardojr/Dropbox/Graduação/FinalWork/Preliminary/Siepe2015/Seminarios_Discentes/Slide/assets/img/slidify_logo_big.png" align="middle" height="300" width="400" margin="0 auto" />
+<img src="assets/img/slidify_logo_big.png" align="middle" height="300" width="400" margin="0 auto" />
 
 <font size="50"><b>
 <div style='text-align: center;'>Obrigado!</div>
